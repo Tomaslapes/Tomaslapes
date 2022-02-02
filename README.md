@@ -12,7 +12,7 @@ My skills:
     * I utilize powerfull deep learning models to solve real world problems and make an impact on peoples lives. 
 
 <details>
-<summary align="center">👀view some APPs (mobile📱 and webapps🌎)</summary>
+<summary align="center">🖱click to 👀view some of my past projects(mobile📱 and webapps🌎)</summary>
  
 <div style="flex">
  
