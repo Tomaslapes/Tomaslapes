@@ -6,10 +6,19 @@ My skills:
 
   * Flutter
     * I build beautiful and user-oriented cross platfom mobile APPs using Flutter. 
+
   * Python
-    * Machine Learning and Deep learning using the PyTorch library. Designing data pipelines and cleaning data. Automation of various tasks. Developement of backend APIs for APPs.   
+    * Machine Learning and Deep learning using the PyTorch library. 
+    * Designing data pipelines and cleaning data. 
+    * Automation of various tasks. 
+    * Developement of backend APIs for APPs using FastAPI. 
+ 
   * AI
     * I utilize powerfull deep learning models to solve real world problems and make an impact on peoples lives. 
+  
+  * Databases
+    * MongoDB
+    * SQL (MariaDB, PostreSQL)
 
 <details>
 <summary align="center">🖱click to 👀view some of my past projects(mobile📱 and webapps🌎)</summary>
