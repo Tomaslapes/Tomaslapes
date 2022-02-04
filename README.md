@@ -67,6 +67,20 @@ My skills:
  
 </details>
 
+<details>
+<summary align="center">🖱click to 👀view 🚧 WIPs 🚧</summary>
+ 
+  <div>
+  <h4>AR3 robotic arm</h4>
+  <p>Building a DIY robotic arm. I would like to later use it with ROS and utilize AI for advanced enviroment awareness</p>
+  <img src="https://user-images.githubusercontent.com/51922469/152548325-14da124e-4f8c-42ae-b650-6d803299d25f.jpg" alt="drawing" width="500"/>
+  <img src="https://user-images.githubusercontent.com/51922469/152548331-9a90eed2-e694-4039-a36c-3bf72e45364f.jpg" alt="drawing" width="500"/>
+  <img src="https://user-images.githubusercontent.com/51922469/152548338-70fe12b4-d292-44cf-9f43-b9573333760a.jpg" alt="drawing" width="500"/>
+   
+ </div>
+
+</details>
+
 
 <!-- <details>
 <summary align="center">👀other projects</summary>
