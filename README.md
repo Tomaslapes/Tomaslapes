@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-I’m a software engineer based in Prague, specializing in Artificial Intelligence, APP develoepement and Python backends. 
+I’m a software engineer based in Prague, specializing in Artificial Intelligence, APP & WebAPP development and Python backends. 
 
 My skills:
+
+  * Frontend skills
+    * Typescript, React, NexJS
+  
+  * Backend / API skills
+    * Python
+    * Supabase, Firebase
 
   * Flutter
     * I build beautiful and user-oriented cross platfom mobile APPs using Flutter. 
