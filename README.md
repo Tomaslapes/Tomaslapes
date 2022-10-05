@@ -28,7 +28,7 @@ My skills:
     * SQL (MariaDB, PostreSQL)
 
 <details>
-<summary align="center">🖱click to 👀view some of my past projects(mobile📱 and webapps🌎)</summary>
+<summary align="center">🖱click to 👀view some of my past projects(webapps🌎, desktop, and mobile📱)</summary>
  
 <div style="flex"> 
  <div>
@@ -48,8 +48,10 @@ My skills:
  
   <div>
   <h4>Desktop App</h4>
-  ![image](https://user-images.githubusercontent.com/51922469/194027559-33dd1665-d0c6-4e21-9205-2c50356787a1.png)
-  ![image](https://user-images.githubusercontent.com/51922469/194027690-64605fcc-0086-409b-863d-6b0657cd3f23.png)
+   <p>A desktop app to automate document creation. Cuts the time required to half and also allows further automation due to data getting uploaded to a DB.</p>
+   <p>This app was developed very rapidly and so UI design was an afterthought. (Also its an internal tool...)</p>
+   <img src="https://user-images.githubusercontent.com/51922469/194027559-33dd1665-d0c6-4e21-9205-2c50356787a1.png" alt="drawing" width="500"/>
+   <img src="https://user-images.githubusercontent.com/51922469/194027690-64605fcc-0086-409b-863d-6b0657cd3f23.png" alt="drawing" width="500"/>
  </div>
 
  <div>
