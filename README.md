@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I’m a software engineer based in Prague, specializing in Artificial Intelligence, APP & WebAPP development and Python backends. 
+I’m a software engineer based in Prague, specializing in APP & WebAPP development and Python backends. I also love to tinker with Artificial Intelligence in my spare time. Currently pursuing a bachelor's degree in Artificial Inteligence at CTU FEE Prague.
 
 My skills:
 
   * Frontend skills
     * Typescript, React, NexJS
+    * Python desktop Apps in PyQT or Tkinter
   
   * Backend / API skills
-    * Python
+    * Python - FastApi, Django
     * Supabase, Firebase
 
   * Flutter
@@ -19,6 +20,8 @@ My skills:
     * Designing data pipelines and cleaning data. 
     * Automation of various tasks. 
     * Developement of backend APIs for APPs using FastAPI. 
+<details>
+<summary align="center">🖱click to 👀 more</summary>
  
   * AI
     * I utilize powerfull deep learning models to solve real world problems and make an impact on peoples lives. 
@@ -26,7 +29,7 @@ My skills:
   * Databases
     * MongoDB
     * SQL (MariaDB, PostreSQL)
-
+</details>
 <details>
 <summary align="center">🖱click to 👀view some of my past projects(webapps🌎, desktop, and mobile📱)</summary>
  
@@ -45,7 +48,13 @@ My skills:
   <p>Deployment: 🐳Docker</p>
   <img src="https://user-images.githubusercontent.com/51922469/152216872-3452ca3a-8808-4702-b519-59f60aa9d5db.jpg" alt="drawing" width="700"/>
  </div>
- 
+  <div>
+  <h4>Custom Filesharing solution</h4>
+  <p>Frontend: Just HTLM templates in Django</p>
+  <p>Backend: Python - Django</p>
+  <p>Deployment: 🐳Docker</p>
+  <img src="https://user-images.githubusercontent.com/51922469/194031640-6d0745ea-010c-4d70-abf9-4644525573e2.jpg" alt="drawing" width="700"/>
+ </div>
   <div>
   <h4>Desktop App</h4>
    <p>A desktop app to automate document creation. Cuts the time required to half and also allows further automation due to data getting uploaded to a DB.</p>
