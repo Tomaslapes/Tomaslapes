@@ -5,7 +5,7 @@ I’m a software engineer based in Prague, specializing in APP & WebAPP & Deskto
 My skills:
 
   * Frontend skills
-    * Typescript, React, NexJS
+    * Typescript, React, NextJS
     * Python desktop Apps in PyQT or Tkinter
   
   * Backend / API skills
